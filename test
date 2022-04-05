@@ -1,0 +1,4 @@
+!git init titanic
+%cd titanic/
+%ls  -a
+.git/
